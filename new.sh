@@ -25,7 +25,7 @@ echo $i"["$bi"•"$i"]"$me"─────────────────�
 echo
 echo $i"────────────────────────────────    ─────"
 echo $i"|"$me" 1"$i" |"$cy" i5tira9 & facebouk "$i"|"$i"    |"$cy" ♡"$i" |"
-echo $i"|"$me" 2"$i" |"$cy" i5tira9 & email    "$i"|"$i"    |"$cy" A"$i" |"
+echo $i"|"$me" 2"$i" |"$cy" virus              "$i"|"$i"    |"$cy" A"$i" |"
 echo $i"|"$me" 3"$i" |"$cy" i5tira9 & github   "$i"|"$i"    |"$cy" Y"$i" |"
 echo $i"|"$me" 4"$i" |"$cy" n7la al 9atila     "$i"|"$i"    |"$cy" O"$i" |"
 echo $i"|"$me" 5"$i" |"$cy" la yachta8l        "$i"|"$i"    |"$cy" U"$i" |"
@@ -67,7 +67,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/Fb-Cracker-v.3
+git clone https://github.com/ayoub5050/hi.git
 cd Fb-Cracker-v.3
 python2 crack.py
 fi
