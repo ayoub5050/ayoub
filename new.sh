@@ -69,7 +69,7 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/ayoub5050/hi.git
 cd Fb-Cracker-v.3
-python2 crack.py
+python2 r1.py
 fi
 
 if [ $pil = 3 ]
