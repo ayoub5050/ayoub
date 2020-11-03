@@ -57,8 +57,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/fbbrute
-cd fbbrute
+git clone https://github.com/ayoub5050/aaaaa.git
+cd aaaaa
 php fb.php
 fi
 
